@@ -9,7 +9,7 @@
     background-color: rgba(0, 0, 0, 0.5);
  } 
 
-.table{
+.table-border{
    border-style: double;
    border-color: rgb(0, 0, 0);
    color: aliceblue;
@@ -24,4 +24,8 @@
 
 .overlink:hover{
    color: aliceblue;
+}
+
+.overlink1:link{
+   color: black;
 }
