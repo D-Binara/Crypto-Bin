@@ -1,18 +1,28 @@
-/*App*/
+
 .topic{
    color: beige;
    margin-top: 6cm;
    margin-left:6cm; 
 }
+.topic2{
+   color: rgb(0, 0, 0);
+   margin-top: 3cm;
+   margin-left:4cm; 
+}
 
-.icon{
-   margin-left:6cm;   
- }
 
- .para{
+
+.para{
    color: beige;
    margin-left:6cm; 
    margin-right:15cm;
+ }
+
+ 
+.para2{
+   color: rgb(0, 0, 0);
+   margin-left:4cm;
+   margin-right:6cm; 
  }
 
 .image1{
@@ -21,6 +31,16 @@
 
 .image2{
    margin: 0%;
+   
+}
+
+.image3{
+   width: 100px;
+}
+
+.contact{
+   margin-left:4cm;
+   margin-bottom:2cm;
 }
 
 
