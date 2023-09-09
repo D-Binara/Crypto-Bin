@@ -1,2 +1,2 @@
 # Crypto-Bin
-Web page
+This is a website with HTML,CSS and Javascript 
